@@ -46,14 +46,6 @@ My focus is building efficient, scalable, and clean solutions while continuously
 	</p>
 </div>
 
----
-
-## 📂 Projects
-
-🚀 *Currently working on new backend and full-stack web apps using Node.js, Flask, and MongoDB.*  
-Check out my pinned repositories below!
-
----
 
 ## 📈 GitHub Stats
 
@@ -66,7 +58,10 @@ Check out my pinned repositories below!
 
 ---
 
-**Let's connect and build something awesome together! 🚀**
+**Contact me through these channels:**
+
+📧 Email: [scobarslukas@gmail.com](mailto:scobarslukas@gmail.com)  
+📸 Instagram: [@lscobars](https://instagram.com/lscobars)
 
 ---
 
