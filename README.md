@@ -60,8 +60,11 @@ My focus is building efficient, scalable, and clean solutions while continuously
 
 **Contact me through these channels:**
 
-📧 Email: [scobarslukas@gmail.com](mailto:scobarslukas@gmail.com)  
-📸 Instagram: [@Lukas](https://instagram.com/lscobars)
+**Contact me through these channels:**
+
+[![Gmail](https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white)](mailto:scobarslukas@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lscobars)
+
 
 ---
 
