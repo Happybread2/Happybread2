@@ -22,8 +22,6 @@ My focus is building efficient, scalable, and clean solutions while continuously
 			<img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
 			<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript">
 			<img alt="C++" src="https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus">
-			<img alt="HTML5" src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5">
-			<img alt="CSS3" src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3">
 		</kbd>
 	</p>
 	<p>
@@ -31,14 +29,15 @@ My focus is building efficient, scalable, and clean solutions while continuously
 			<kbd>Databases & Cloud</kbd><br><br>
 			<img alt="MySQL" src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql">
 			<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb">
-			<img alt="Repl.it" src="https://img.shields.io/badge/Replit-05122A?style=flat&logo=replit">
-			<img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-05122A?style=flat&logo=github">
+			<img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-05122A?style=flat&logo=github">
 		</kbd>
 	</p>
 	<p>
 		<kbd>
-			<kbd>Tools & Platforms</kbd><br><br>
+			<kbd>Frameworks & Tools</kbd><br><br>
 			<img alt="Node.js" src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js">
+			<img alt="Flask" src="https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask">
+			<img alt="npm" src="https://img.shields.io/badge/npm-05122A?style=flat&logo=npm">
 			<img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git">
 			<img alt="GitHub" src="https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github">
 			<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code">
@@ -51,7 +50,7 @@ My focus is building efficient, scalable, and clean solutions while continuously
 
 ## 📂 Projects
 
-🚀 *Currently working on new backend and full-stack web apps using Node.js and MongoDB.*  
+🚀 *Currently working on new backend and full-stack web apps using Node.js, Flask, and MongoDB.*  
 Check out my pinned repositories below!
 
 ---
@@ -77,7 +76,7 @@ Check out my pinned repositories below!
 ## 👋 Sobre mí
 
 Soy **Lukas Escobar**, un desarrollador de software junior con gran interés en el **desarrollo web** y de **backend**.  
-Tengo experiencia práctica con **Python** y **JavaScript**, conocimientos básicos de **C++**, y manejo bases de datos **MySQL** y **MongoDB**.  
-Me enfoco en escribir código limpio, eficiente y escalable, y me apasiona seguir aprendiendo nuevas herramientas y tecnologías.
+Tengo experiencia práctica con **Python**, **JavaScript**, y **Node.js**, además de trabajar con bases de datos **MySQL** y **MongoDB**.  
+Estoy aprendiendo frameworks como **Flask**, y me esfuerzo por escribir código limpio y escalable mientras sigo mejorando mis habilidades.
 
 </details>
